@@ -1,0 +1,6 @@
+{
+  "name": "تقرير معتمدية منزل الحبيب - ولاية قابس",
+  "description": "تقرير توثيقي مصور وخارطة تفاعلية شاملة لمعتمدية منزل الحبيب بولاية قابس مع أدوات التصدير والتضمين لمدونات Blogger",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
